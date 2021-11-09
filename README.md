@@ -9,10 +9,6 @@ You should also have installed the requirements:
 ```
 pip install -r requirements.txt
 ```
-## Pre-trained models
-
-Our pre-trained models for wmh segmentation can be downloaded using the following link:
-https://drive.google.com/drive/folders/1VSsDUmNoPNg3wGtRpa5LVHXgoeZWT_UQ?usp=sharing
 
 ## Training:
 First, make sure that the folder data contains the download the dataset.
